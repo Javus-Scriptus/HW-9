@@ -1,0 +1,57 @@
+:root {
+  --lightblack: #212121;
+  --gray: #757575;
+  --white: #ffffff;
+  --blue: #2196f3;
+  --black: #000000;
+  --darkgray: #2f303a;
+  --dirtywhite: #ececec;
+  --creamwhite: #f5f4fa;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+    font-size: 14px;
+    background-color: #ececec;
+}
+
+header a {
+    color: #212121;
+}
+
+header a:hover {
+    color: #2196f3;
+}
+
+main button {
+    background-color: #f5f4fa;
+    font-size: 16px;
+    text-align: center;
+}
+
+main h3 {
+    font-size: 18px;
+}
+
+main p {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #2f303a;
+}
+
+footer p {
+    color: #ffffff;
+}
+
+footer a {
+    color: #757575;
+}
+
+footer {
+     line-height: 30px;
+}

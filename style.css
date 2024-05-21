@@ -1,0 +1,92 @@
+:root {
+  --lightblack: #212121;
+  --gray: #757575;
+  --white: #ffffff;
+  --blue: #2196f3;
+  --black: #000000;
+  --darkgray: #2f303a;
+  --dirtywhite: #ececec;
+  --creamwhite: #f5f4fa;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  font-size: 14px;
+  background-color: #ececec;
+}
+
+header a {
+  color: #212121;
+}
+
+header a:hover {
+  color: #2196f3;
+}
+
+.lefthead {
+  text-align: left;
+}
+
+.righthead {
+  text-align: right;
+}
+
+h1 {
+  font-size: 44px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+section:nth-child(2) h3 {
+  font-size: 14px;
+}
+
+section:nth-child(4) h3 {
+  background-color: #f5f4fa;
+  font-size: 16px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: #2f303a;
+}
+
+section:nth-child(1) {
+  background-color: #2f303a;
+}
+
+section:nth-child(1) h1 {
+  color: #ffffff;
+}
+
+section:nth-child(1) button {
+  background-color: #2196f3;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+p {
+  color: #757575;
+  size: 14px; 
+}
+
+section:nth-child(1) button {
+  text-align: center;
+}
+
+section:nth-child(3) img {
+  align-self: center;
+}
+
+footer a {
+  color: #757575;
+}
+
